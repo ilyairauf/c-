@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\person.exe
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\person.deps.json
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\person.runtimeconfig.json
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\person.dll
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\person.pdb
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\person.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\person.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\person.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\person.dll
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\refint\person.dll
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\person.pdb
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\person.genruntimeconfig.cache
+C:\Users\PC\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ref\person.dll
